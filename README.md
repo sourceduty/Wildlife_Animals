@@ -30,6 +30,8 @@ Animal tools, management, and pet care play a crucial role in ensuring the healt
 
 [Emergency AI](https://github.com/sourceduty/Emergency_AI)
 <br>
+[Pet Animal Clothing](https://chatgpt.com/g/g-67df11bdb004819194855ce60135b384-pet-animal-clothing)
+<br>
 [Animal IoT](https://chatgpt.com/g/g-MCcd1bnZo-animal-iot)
 <br>
 [Animaloid](https://chatgpt.com/g/g-6780ef6588ac81919963f76ae634a08d-animaloid)
