@@ -41,3 +41,5 @@ Animal tools, management, and pet care play a crucial role in ensuring the healt
 [Animal IoT](https://chatgpt.com/g/g-MCcd1bnZo-animal-iot)
 <br>
 [Animaloid](https://chatgpt.com/g/g-6780ef6588ac81919963f76ae634a08d-animaloid)
+<br>
+[Synthetic Fish](https://chatgpt.com/g/g-687081e4afcc81918f6e06ad7d3e4bf5-synthetic-fish)
